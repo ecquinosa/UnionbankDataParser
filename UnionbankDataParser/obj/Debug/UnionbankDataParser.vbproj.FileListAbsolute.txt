@@ -1,0 +1,58 @@
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.exe
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.pdb
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.xml
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.form_Decryption.resources
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.Resources.resources
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.GenerateResource.Cache
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.exe
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.xml
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.pdb
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\Interop.PrjADSCardFile.dll
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\Interop.PrjADSCardFile.dll
+E:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.ResolveComReference.cache
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.ResolveComReference.cache
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.exe
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.xml
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.pdb
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.form_Decryption.resources
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.Resources.resources
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.GenerateResource.Cache
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.exe
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.pdb
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.xml
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\bin\Debug\Interop.PrjADSCardFile.dll
+D:\Documents\Projects\VB 2008\UnionbankDataParser\UnionbankDataParser\obj\Debug\Interop.PrjADSCardFile.dll
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.ResolveComReference.cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.exe
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.xml
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.pdb
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.exe
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.pdb
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Debug\UnionbankDataParser.xml
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\ResolveAssemblyReference.cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.form_Decryption.resources
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.Resources.resources
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.GenerateResource.Cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.Form1.resources
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Debug\Interop.PrjADSCardFile.dll
+D:\ACC Shared\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.ResolveComReference.cache
+D:\ACC Shared\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.exe
+D:\ACC Shared\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.xml
+D:\ACC Shared\UnionbankDataParser\UnionbankDataParser\obj\Debug\UnionbankDataParser.pdb
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.ResolveComReference.cache
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.exe
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.xml
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.pdb
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\bin\Debug\UnionbankDataParser.exe
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\bin\Debug\UnionbankDataParser.pdb
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\bin\Debug\UnionbankDataParser.xml
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\bin\Debug\Interop.PrjADSCardFile.dll
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\bin\Debug\Interop.UBPADSObject.dll
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbprojResolveAssemblyReference.cache
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\Interop.UBPADSObject.dll
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.Form1.resources
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.form_Decryption.resources
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.Resources.resources
+D:\EDEL\ACC\Projects\UnionbankDataParser - 2016\UnionbankDataParser\obj\Debug\UnionbankDataParser.vbproj.GenerateResource.Cache

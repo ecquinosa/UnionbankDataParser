@@ -1,0 +1,13 @@
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\ResolveAssemblyReference.cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.vbproj.ResolveComReference.cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.form_Decryption.resources
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.Resources.resources
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.vbproj.GenerateResource.Cache
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Release\UnionbankDataParser.exe
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Release\UnionbankDataParser.pdb
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Release\UnionbankDataParser.xml
+E:\Projects\UnionbankDataParser\UnionbankDataParser\bin\Release\Interop.PrjADSCardFile.dll
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.exe
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.xml
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.pdb
+E:\Projects\UnionbankDataParser\UnionbankDataParser\obj\Release\UnionbankDataParser.Form1.resources
